@@ -1,5 +1,9 @@
 <?php
 # include 'databaseconnect.php';
+$url = "www."
+$json = file_get_contents($url);
+
+
 $jsonInput = '"id":"rlZiIaC",
    "title":null,
    "description":null,
