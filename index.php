@@ -1,9 +1,5 @@
 <?php
 # include 'databaseconnect.php';
-down vote
-echo "<pre>";
-
-
 $jsonInput = '"id":"rlZiIaC",
    "title":null,
    "description":null,
