@@ -1,4 +1,5 @@
 <?php
+echo "hello"
 # include 'databaseconnect.php';
 $url = "www."
 $json = file_get_contents($url);
